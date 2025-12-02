@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Willkommen auf meinem GitHub-Profil!
+Hey! Schön, dass du hier bist.
 
-<!--
-**Neox-R/Neox-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich heiße Leon Reiter und befinde mich gerade in der beruflichen Umschulung zum Informatiker EFZ Fachrichtung Applikationsentwicklung an der Benedictschule in Zürich.
 
-Here are some ideas to get you started:
+Ich habe mich entschieden, nochmal neu zu starten – raus aus meinem alten Job, rein in die Welt der Informatik. Für mich ist das ein spannender Neuanfang, und hier möchte ich zeigen, was ich auf diesem Weg lerne und ausprobiere.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Was du hier findest
+Auf diesem Profil lade ich wenn ich kann nach und nach meine Projekte und Übungsarbeiten hochladen.
+Nicht alles wird perfekt sein – aber genau darum geht’s: lernen, Fehler machen, besser werden.
+Ich will nicht nur Code schreiben, sondern auch verstehen, was dahinter steckt.
+
+🌱 Mein Ziel
+Ich möchte Schritt für Schritt in die Welt der Softwareentwicklung hineinwachsen.
+Vielleicht arbeite ich später als Softwareentwickler – oder sogar irgendwann als Softwarearchitekt, vielleicht werde ich der nächste grosse spiel entwickler oder vielleicht arbeite ich in der cybersecurity. Wer weiß?
+
+Aber jetzt geht’s erstmal darum:
+
+neugierig zu bleiben
+weiterzulernen
+und dranzubleiben 🚀
+📫 Kontakt
+Wenn du mir Feedback geben willst oder dich einfach austauschen möchtest, schreib mir gerne:
+
+✉️ E-Mail: leonreiter@glattnet.ch
+🧑‍💼 LinkedIn: (https://www.linkedin.com/in/leon-reiter02/)
+🌐 Website / Portfolio: W.I.P
+Danke fürs Vorbeischauen! Ich freue mich, wenn du meine Reise hier ein Stück begleitest 😊
