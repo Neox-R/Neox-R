@@ -19,8 +19,8 @@ Aber jetzt geht’s erstmal darum:
 neugierig zu bleiben
 weiterzulernen
 und dranzubleiben 🚀
-📫 Kontakt
-Wenn du mir Feedback geben willst oder dich einfach austauschen möchtest, schreib mir gerne:
+
+Wenn du mir Feedback geben willst oder dich einfach austauschen möchtest, schreib mir gerne📫:
 
 ✉️ E-Mail: leonreiter@glattnet.ch
 🧑‍💼 LinkedIn: (https://www.linkedin.com/in/leon-reiter02/)
