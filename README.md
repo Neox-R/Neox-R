@@ -20,9 +20,9 @@ neugierig zu bleiben
 weiterzulernen
 und dranzubleiben 🚀
 
-Wenn du mir Feedback geben willst oder dich einfach austauschen möchtest, schreib mir gerne📫:
+Wenn du mir Feedback geben willst oder dich einfach austauschen möchtest, schreib mir gerne📫 hier oder send mir ein emial:
 
-✉️ E-Mail: leonreiter@glattnet.ch
+✉️ E-Mail: neoxlonewolf@gmail.com 
 🧑‍💼 LinkedIn: (https://www.linkedin.com/in/leon-reiter02/)
 🌐 Website / Portfolio: W.I.P
 Danke fürs Vorbeischauen! Ich freue mich, wenn du meine Reise hier ein Stück begleitest 😊
