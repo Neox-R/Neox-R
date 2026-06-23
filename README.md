@@ -1,12 +1,12 @@
 👋 Willkommen auf meinem GitHub-Profil!
 Hey! Schön, dass du hier bist.
 
-Ich heiße Leon Reiter und befinde mich gerade in der beruflichen Umschulung zum Informatiker EFZ Fachrichtung Applikationsentwicklung an der Benedictschule in Zürich.
+Ich heiße Leon Reiter und schloss beruflichen Umschulung zum Informatiker EFZ Fachrichtung Applikationsentwicklung an der Benedictschule in Zürich vor kurzem ab. Momentan bin ich dabei meinen Platz in der IT welt zu finden.
 
 Ich habe mich entschieden, nochmal neu zu starten – raus aus meinem alten Job, rein in die Welt der Informatik. Für mich ist das ein spannender Neuanfang, und hier möchte ich zeigen, was ich auf diesem Weg lerne und ausprobiere.
 
 🛠️ Was du hier findest
-Auf diesem Profil lade ich (wenn ich kann) nach und nach meine Projekte und Übungsarbeiten hochladen.
+Auf diesem Profil lade ich (wenn ich kann) meine Projekte und Übungsarbeiten hochladen.
 Nicht alles wird perfekt sein – aber genau darum geht’s: lernen, Fehler machen, besser werden.
 Ich will nicht nur Code schreiben, sondern auch verstehen, was dahinter steckt.
 
